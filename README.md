@@ -1,3 +1,5 @@
+**IMPORTANT: This is forked for other proejct purpoese**
+
 # Yolov5Net
 YOLOv5 object detection with ML.NET, ONNX
 
