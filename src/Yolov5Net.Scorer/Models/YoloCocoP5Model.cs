@@ -9,7 +9,7 @@ public record YoloCocoP5Model() : YoloModel(
 
     85,
 
-    new[] { 8, 16, 32 },
+    new[] { 8, 16, 32 },    
 
     new[]
     {
@@ -20,7 +20,7 @@ public record YoloCocoP5Model() : YoloModel(
 
     new[] { 80, 40, 20 },
 
-    0.20f,
+    0.00f,
     0.25f,
     0.45f,
 
@@ -112,3 +112,5 @@ public record YoloCocoP5Model() : YoloModel(
 
     true
 );
+
+
